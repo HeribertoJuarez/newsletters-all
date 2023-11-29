@@ -1,0 +1,18 @@
+<mjml>
+  <mj-body background-color="#ef4f23">
+    <mj-section background-color="#FFFFFF">
+      <mj-column></mj-column>
+    </mj-section>
+    <mj-section background-color="#FFFFFF">
+      <mj-column></mj-column>
+    </mj-section>
+    <mj-section background-url="https://i.ibb.co/Ss4MNCr/Recurso-1.png">
+      <mj-column>
+            <mj-text align="right"> Some text for your preheader </mj-text>
+        </mj-column>
+       <mj-column>
+            <mj-text align="right"> Some text for your preheader </mj-text>
+        </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
